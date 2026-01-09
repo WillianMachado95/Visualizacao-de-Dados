@@ -10,4 +10,6 @@ Cada projeto contém a descrição do problema, as métricas analisadas e os pri
 
 Este projeto é uma adaptação desenvolvida como exercício de fixação para o meu curso de Power BI. O foco do aprendizado está nas técnicas de visualização de dados, uso de funções DAX e aplicação de boas práticas de design de dashboards.
 
-<iframe title="Projeto 1 - Dashboard de Vendas" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=668cf53b-e530-442e-b032-8249aa89a62b&autoAuth=true&ctid=4148a6de-0dd1-4d04-a4c5-78e374e4f6d6" frameborder="0" allowFullScreen="true"></iframe>
+<img width="1867" height="989" alt="image" src="https://github.com/user-attachments/assets/8b8c23b7-2b78-4a65-9de3-8ca0e7d1eeab" />
+
+🔗 [Acessar Dashboard no Power BI](https://app.powerbi.com/reportEmbed?reportId=668cf53b-e530-442e-b032-8249aa89a62b)
