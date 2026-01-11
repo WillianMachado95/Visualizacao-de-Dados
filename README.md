@@ -33,3 +33,16 @@ Projeto desenvolvido para ser utilizado como exercício de fixação no meu curs
 
 🔗 [Acessar Dashboard no Power BI](https://app.powerbi.com/reportEmbed?reportId=797b581b-7017-4f3e-af56-7ed80739e4a8&autoAuth=true&ctid=4148a6de-0dd1-4d04-a4c5-78e374e4f6d6)
 
+
+
+<h2> Análise de Receita e Custo </h2>
+
+Este projeto foi uma adaptação que realizei para o meu curso de Power BI, ele contempla todas as fases de construção de um projeto. A primeira etapa da atividade exigia o manuseio de diferentes fontes de dados; as fontes de dados propostas para este projeto foram uma planilha eletrônica online, um bloco de notas e uma planilha eletrônica local. Na sequência foi realizado uma rotina de tratamento no Power Query e o desafio deste projeto exigia a visão crítica para a estrutura/organização das bases de dados e sua reestruturação para um padrão que viabilize a construção de um dashboard. Na etapa seguinte foi necessário realizar a modelagem e relacionamento dos dados. Cumpre destacar que esta etapa exige o embasamento teórico sobre os tipos de tabelas e o desempenho de cada uma (Fato e Dimensão), o conhecimento sobre os modelos de dados e suas boas práticas (Star Schema e Snow Flake Schema) e o domínio das cardinalidades das relações. Para realização deste projeto era necessário a construção de uma tabela calendário. E, por fim, a construção do dashboard contemplou técnicas diferentes como a aplicação de um Background e tolltip. 
+
+<div style="display: flex; gap: 16px;">
+  <img src="https://github.com/user-attachments/assets/15110b27-7e13-41e5-9781-a30bbcdcffda" width="48%" />
+  <img src="https://github.com/user-attachments/assets/c273b368-87aa-4b85-b21d-08090f72a105" width="48%" />
+</div>
+
+
+
